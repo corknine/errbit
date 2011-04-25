@@ -8,7 +8,7 @@ gem 'will_paginate'
 gem 'devise', '~> 1.1.8'
 gem 'lighthouse-api'
 gem 'redmine_client', :git => "git://github.com/oruen/redmine_client.git"
-
+gem 'hoptoad_notifier'
 platform :ruby do
   gem 'bson_ext', '~> 1.2'
 end

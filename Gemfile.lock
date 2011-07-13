@@ -93,8 +93,8 @@ GEM
       builder
       happymapper (>= 0.3.2)
       happymapper (>= 0.3.2)
-      nokogiri (~> 1.4)
       nokogiri (>= 1.4.3)
+      nokogiri (~> 1.4)
       rest-client (~> 1.6.0)
       rest-client (~> 1.6.0)
     polyglot (0.3.1)

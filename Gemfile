@@ -26,4 +26,9 @@ group :test do
   gem 'rspec', '~> 2.5'
   gem 'database_cleaner', '~> 0.6.0'
   gem 'factory_girl_rails'
+  gem 'email_spec'
+end
+
+group :heroku do
+  gem 'thin'
 end
